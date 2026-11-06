@@ -1,0 +1,589 @@
+{
+  "groupe1": {
+    "titre": "CO-VTT MTBO Meeting Etape 1 Sprint Couchey(21) 06/06",
+    "textes": [
+    ""      
+    ],
+    "liens": [
+      {
+        "texte": "Resultats categories",
+        "url": "https://drive.google.com/file/d/1buCzRE0zXJ0ax-CJVLjZK4Vh88dTOXvh/view?usp=sharing"
+      },
+      {
+        "texte": "Temps intermédiaires",
+        "url": "https://drive.google.com/file/d/1w5xe8ajCrN8BcJpPzasKWKxkufhJ1bmu/view?usp=sharing"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },      
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 17:28"
+  },
+
+  "groupe2": {
+    "titre": "CO-VTT MTBO Meeting Etape 2 MD Couchey(21) 06/06",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Resultats categories",
+        "url": "https://drive.google.com/file/d/1kRg3hgpAmN7S9307pleyii5DKImebUAr/view?usp=sharing"
+      },
+      {
+        "texte": "Temps intermédiaires",
+        "url": "https://drive.google.com/file/d/1ff0zq9tiVUFNqmkFmcRzrzGJhOOEk8yt/view?usp=sharing"
+      },
+      {
+        "texte": "Résultats cumulés 2ème étape",
+        "url": "https://drive.google.com/file/d/1sirjCoQ-96IeAk1_HDw1pvSkG9J0IuCi/view?usp=sharing"
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 17:28"
+  },
+
+  "groupe3": {
+    "titre": "CO-VTT MTBO Meeting Etape 3 LD Couchey(21) 07/06",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Resultats categories",
+        "url": "https://drive.google.com/file/d/1VyPMiEkziCEoPTw7b-i632Si-efsXWPN/view?usp=sharing"
+      },
+      {
+        "texte": "Temps intermédiaires",
+        "url": "https://drive.google.com/file/d/1w2wkOiuxMIDayPkkNaZvPIX8AZgP82Ku/view?usp=sharing"
+      },
+      {
+        "texte": "Résultats cumulés 3ème étape",
+        "url": "https://drive.google.com/file/d/1tLdmaAF_lVU3ABORMe4XE4HU80NuajRt/view?usp=sharing"
+      }
+    ],
+    "maj": "06/11/2026 17:28"
+  },
+
+    "groupe4": {
+    "titre": "CO-VTT Nationale MD Villers lès Nancy(54) 13/06",
+    "textes": [
+      "",
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Resultats categories",
+        "url": "https://vtt.scapanancyorientation.fr/wp-content/uploads/2026/06/20260613_resultats_nationale_CO_VTT_MD.html"
+      },
+      {
+        "texte": "Temps intermédiaires",        
+        "url": "https://vtt.scapanancyorientation.fr/wp-content/uploads/2026/06/20260613_resultats_nationale_CO_VTT_MD_SI.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 17:28"
+  },
+
+  "groupe5": {
+    "titre": "CO-VTT Chpt France LD Villers lès Nancy(54) 14/06",
+    "textes": [
+      "" 
+    ],
+    "liens": [
+      {        
+        "texte": "Resultats categories",        
+        "url": "https://vtt.scapanancyorientation.fr/wp-content/uploads/2026/06/20260614_resultats_CF_CO_VTT_LD.html"
+      },
+      {         
+        "texte":"Temps intermédiaires",
+        "url":"https://vtt.scapanancyorientation.fr/wp-content/uploads/2026/06/20260614_resultats_CF_CO_VTT_LD_SI.html"
+      },      
+      {
+        "texte": "",        
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 17:28"
+  },
+  "groupe6": {
+    "titre": "LD départ. Montagne-de-Reims(51) 14/06",
+    "textes": [
+      "",
+      "",
+      ""     
+        ],
+    "liens": [
+      {
+        "texte": "Resultats circuits",
+        "url": "https://helga-o.com/webres/index.php?lauf=6807&lang=fr"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },      
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 17:28"
+  },
+  "groupe7": {
+    "titre": "CO score LD Urbaine départ. Noisy-le-Grand(93) 14/06",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Resultats circuits",
+        "url": "https://drive.google.com/file/d/1wcBOTILziIa7-P84kHisilYBpi0njwU5/view?usp=sharing"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 17:28"
+  },
+  "groupe8": {
+    "titre": "MD régionale Premanon(39) 20/06",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Resultats circuits",
+        "url": "https://ojura.fr/resultats/co20260620/resultatsCO20260620-simples.html"
+      },
+      {
+        "texte":"Temps intermédiaires",
+        "url":"https://ojura.fr/resultats/co20260620/resultatsCO20260620-complets.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 17:28"
+  },
+  "groupe9": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe10": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe11": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe12": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe13": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe14": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe15": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe16": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe17": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe18": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe19": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe20": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  }  
+}
